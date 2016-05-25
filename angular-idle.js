@@ -1,7 +1,7 @@
 /*** Directives and services for responding to idle users in AngularJS
 * @author Mike Grabski <me@mikegrabski.com>
 * @version v1.2.2
-* @link https://github.com/HackedByChinese/ng-idle.git
+* @link https://github.com/agentfuture/ng-idle
 * @license MIT
 */
 (function(window, angular, undefined) {
